@@ -1,0 +1,33 @@
+#kit {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    background-color: #333;
+    padding: 20px;
+}
+
+/* Button styles */
+#btns button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#btns{
+    text-align: center;
+    padding-top: 30px;
+    background-color: rgba(230, 228, 228, 0.699);
+    height: 250px;
+}
+#btns button:hover{
+    background-color: #409443;
+    font-size: 19px;
+}
